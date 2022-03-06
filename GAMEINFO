@@ -1,5 +1,5 @@
 IWAD = doom2.wad
-LOAD = "32in24-15_tex_v2.wad", "BlackGreenTechTexturesPack.wad", "erattex1.wad", "litextra.wad", "TXGRAY.wad"
+LOAD = "z.32in24-15_tex_v2.wad", "z.BlackGreenTechTexturesPack.wad", "z.erattex1.wad", "z.litextra.wad", "z.TXGRAY.wad"
 STARTUPTITLE = "Cotton Candy"
-STARTUPTYPE = hexen
-STARTUPSONG = orb.xm
+STARTUPTYPE = "hexen"
+STARTUPSONG = "orb.xm"
