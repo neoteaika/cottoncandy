@@ -1,2 +1,3 @@
-# cottoncandy
- Neo Te Aika & Pacmikey, 2022. For GZDoom and Doom 2.
+# Cotton Candy
+## * *Neo Te Aika & Pacmikey* *
+### Pasteright™ 2022. For GZDoom (use doom2.wad)
