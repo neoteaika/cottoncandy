@@ -1,0 +1,4 @@
+IWAD = doom2.wad
+STARTUPTITLE = "Cotton Candy"
+STARTUPTYPE = hexen
+STARTUPSONG = orb.xm
