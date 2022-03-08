@@ -20,8 +20,6 @@ Tunnel Society
 
 Silent Conquest
 
-Schein
-
 Jewels of Denial
 
 Final Destination
